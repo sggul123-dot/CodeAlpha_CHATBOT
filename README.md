@@ -105,6 +105,3 @@ Chatbot: Goodbye! 👋
 * **Website:** [www.codealpha.tech](https://www.codealpha.tech)
 * **WhatsApp:** +91 8052293611
 * **Email:** [services@codealpha.tech](mailto:services@codealpha.tech)
-
-
-Do you want me to do that next?
